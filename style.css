@@ -1,3 +1,12 @@
 body {
-    background-color: black;
+    background-color: black
+    color:dimgrey
+    font-family: "Trebuchet MS", "Comic Sans MS", cursive;
+    margin: 0;
+}
+
+header {
+    font-size: 60px;
+    border-botton: double 5px pink;
+    padding
 }
